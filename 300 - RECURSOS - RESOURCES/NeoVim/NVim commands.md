@@ -1,0 +1,1 @@
+:q! - para forzar cierre

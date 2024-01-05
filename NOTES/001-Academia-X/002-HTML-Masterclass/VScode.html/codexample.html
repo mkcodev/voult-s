@@ -1,0 +1,220 @@
+<p>
+  Utiliza este codigo en css:
+  <code>{ background: blue}</code>
+</p>
+
+<br>
+&lt; &gt;
+<br>
+
+<p> utiliza este codigo en tu HTML
+	<code>&lt;body&gt;</code>
+</p>
+
+<p>CO<sub>2</sub></p>
+<p>n<sup>2</sup></p>
+<p>Referencia a un libro.<sup>2</sup></p>
+
+<br>
+
+<!-- CITAS -->
+
+<blockquote>
+    <p>La mediocridad es para la gente boba</p>
+    <cite>Charly garcia</cite>
+</blockquote>
+
+<p>Jose Miloko dijo:
+    <q>Ser libre es gastar la mayor cantidad de tiempo de nuestra vida en lo que nos gusta hacer</q>
+</p>
+
+<!-- DATETIME -->
+
+<p>Nos vemos el
+    <time datetime="2024-04-20">Sábado</time>
+    a las
+    <time datetime="16:20:00.5-08:00">4:20</time>
+</p>
+
+<p>Nos vemos a las
+    <time datetime="2024-04-20 10:00-0800">10</time>
+</p>
+
+<!-- NAVBAR -->
+
+<nav role="navigation" aria-label="menu principal">
+    <a href="/">Hogar</a>
+    <a href="/blog.html">Blog</a>
+    <a href="/sections/about.html">Acerca de </a>
+</nav>
+
+<!-- SRCSET -->
+<img src="./loko-300.jpg" alt="loko" srcset="./loko-600.jpg 2x, ./loko-1200.jpg 3x"/>
+
+<!-- figure: Ayuda a la semantica para los buscadores -->
+<figure>
+    <img src="./html.svg" alt="HTML5" width="300">
+    <figcaption>Esto es el logo de HTML5</figcaption>
+</figure>
+
+<!-- Picture: Optimizado para longitud y tamaño de pantalla -->
+
+<picture>
+    <source media="(min-width:1200px)" srcset="./loko-1200.jpeg">
+    <source media="(min-width:1200px)" srcset="./loko-1200.jpeg">
+    <img src="./-600.jpg" alt="Esta saldra cuando el ancho sea menos de 600">
+</picture>
+
+<!-- AUDIO -->
+
+<audio controls src="audio.mp3" loop autoplay></audio>
+
+<audio controls loop autoplay>
+    <source src="audio.mp3" type="audio/mpeg">
+    <source src="audio.ogg" type="audio/ogg; codec=opus">
+    Lo sentimos. Tu navegador no soporta este formato
+</audio>
+<br>
+<!-- iframes -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mbW4rPDuKKY" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!-- Div + span -->
+
+<div>Me gusta la canción <span lang="en">Elevation</span></div>
+
+<br><br>
+<p contenteditable="true">Edit this content</p>
+
+<br><br>
+
+<div contenteditable>loko
+    <img src="loko.jpg" alt="atr">
+</div>
+
+
+<!-- Roles ARIA para accesibiliadd -->
+
+<div aria-label="H2O">
+    <div aria-hidden="true">
+        <span>H</span>
+        <span>2</span>
+        <span>O</span>
+    </div>
+</div>
+
+
+<!-- HEAD -->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mi página web</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="description" content="Página de ejemplo">
+    <meta name="application-name" content="Aplicacion de HTML">
+    <meta name="msapplication-TitleImage" content="/img/mstile-144x144.png"> <!-- Icono windows-->
+    <meta name="theme-color" content="#000000"> <!-- integrar color general de la web-->
+
+    <link rel="manifest" href="/manifest.json"> <!-- Más info: version, author...-->
+    <link rel="icon" href="/favicon.ico">
+    <link rel="preload" href="/font.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+</head>
+
+<!-- BODY -->
+
+<body>
+    <!-- Navegador -->
+    <nav></nav>
+
+    <!-- Encabezado -->
+    <header>
+        <h1></h1>
+    </header>
+
+    <!-- Contenido principal -->
+    <main>
+        <!-- Artículo: Unidad de informació -->
+        <article></article>
+        <!-- Secciones de contenido -->
+        <section></section>
+        <!-- Contenido de lado o lateral -->
+        <aside></aside>
+    </main>
+
+    <!-- Pie de página -->
+    <footer></footer>
+</body>
+
+
+
+<!-- TABLAS -->
+
+<table>
+    <tr>
+        <th>Tecnología web</th>
+        <th>Función</th>
+        <th>Logo</th>
+    </tr>
+    <tr>
+        <td>HTML</td>
+        <td>Estructura</td>
+        <td><img src="http://www.xaviro.com/assets/img/skills/html.svg" alt=""></td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td>estilo</td>
+        <td><img src="http://www.xaviro.com/assets/img/skills/html.svg" alt=""></td>
+    </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td>Interactividad</td>
+        <td><img src="http://www.xaviro.com/assets/img/skills/html.svg" alt=""></td>
+    </tr>
+</table>
+
+<!-- INPUT -->
+<input type="password" placeholder="password">
+<input type="search" placeholder="buscar">
+<input type="phone" placeholder="+34 744-334-344">
+<input type="date">
+<input type="color">
+<input type="file" accept="image/*" multiple>
+<input type="checkbox" value="El checkbox esta marcado" checked>
+
+<br><br>
+<!-- Fieldset -->
+
+<fieldset>
+    <legend>Checkboxes</legend>
+    <input type="radio" value="Uno" name="list">
+    <label for="uno">Uno</label>
+
+    <input type="radio" value="Dos" name="list">
+    <label for="dos">Dos</label>
+
+    <input type="radio" value="Tres" name="list">
+    <label for="tres">Tres</label>
+</fieldset>
+
+<br>
+<!-- Textarea -->
+<textarea cols="20" rows="10" >
+    Titulo del text
+</textarea>
+
+<br><br><br>
+<!-- Form -->
+<form action="/action.php" method="post">
+
+    <label for="name">Nombre:</label>
+    <input id="name" name="name" value="Mkcode">
+    <br>
+    <label>
+        Email
+        <input name="email" type="email" required placeholder="miemail@ejemplo.com">
+    </label>
+    <br>
+    <button>Enviar</button>
+</form>

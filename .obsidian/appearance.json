@@ -1,0 +1,10 @@
+{
+  "accentColor": "#b7bdf8",
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Nuevo Documento de texto",
+    "style"
+  ]
+}

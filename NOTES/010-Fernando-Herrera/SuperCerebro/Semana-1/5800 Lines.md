@@ -1,0 +1,2 @@
+Estamos en n mnndo el en el qe realmente estamos hasta los cojonesde lo qe nos pida la mierda de gobierno esta pero realmente estamos a la altura de los que realmete estamos hasta los cojones de qe nos digan lo qe tenemos qe hacer por eso no nos malinterpreteis hijos de la grandisima puta
+ami no me toqen los cojones hijos de lla grandisima ptaa yo simplemente me dedico a segir mi 

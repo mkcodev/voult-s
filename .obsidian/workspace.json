@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e3924fa7a6f85b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4bff5eaa99a506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae5c5595d44b7d5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HOME.canvas",
+                "viewState": {
+                  "x": -927.5,
+                  "y": 814,
+                  "zoom": -4
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a15febe093b406b",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ad13e0672164aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e389e238d0808986",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eaf6f9ed7a1330d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"000 - CEREBRO DIGITAL/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27352bb512cd368e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5110321044922
+  },
+  "right": {
+    "id": "4933a3bc2b7fd3e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "365a4b706265f9e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa4c89d6102a07ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HOME.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be724b884551f651",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HOME.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9591ca2d1e653747",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d0d31d37db43e18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HOME.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "homepage:Open homepage": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5eaf6f9ed7a1330d",
+  "lastOpenFiles": [
+    "Z-English/assets/phonetic table.png",
+    "Z-English/assets",
+    "Z-English/Pronouns.md",
+    "Z-English/Phonetic.md",
+    "Sin título.md",
+    "Excalidraw/Drawing 2024-01-05 02.33.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-05 02.35.45.excalidraw.md",
+    "Nombres de personas.md",
+    "Excalidraw",
+    "Z-English/Grámatica General.md",
+    "Z-English/Cognados/Cognados - Terminaciones.md",
+    "Frases.md",
+    "Z-English/Cognados",
+    "Z-English",
+    "HOME.canvas",
+    "999 - LAB/HOME 1.canvas",
+    "999 - LAB/Sin título.md",
+    "Untitled.md",
+    "Sin título.canvas",
+    "Home.md",
+    "FLUJOGRAMA.md",
+    "NOTES/010-Fernando-Herrera/015-Qwik-framework/015- Notes.md",
+    "NOTES/010-Fernando-Herrera/015-Qwik-framework/015.2- Seccion 3.md",
+    "NOTES/010-Fernando-Herrera/015-Qwik-framework/015.1- Init Qwik.md",
+    "NOTES/010-Fernando-Herrera/Programación Básica/Programación Básica.md",
+    "NOTES/010-Fernando-Herrera/Programación Básica/Funciones.md",
+    "NOTES/010-Fernando-Herrera/Programación Básica/Arreglos.md",
+    "NOTES/010-Fernando-Herrera/016-Clean-code/Nombres Pronunciables y expresivos.md",
+    "Back/Screen recordings/00.00/Screen_Recording_20220622-220358_Instagram.mp4",
+    "Back/Screen recordings/00.00/Screen_Recording_20220622-210122_Instagram.mp4",
+    "Back/Screen recordings/00.00/Screen_Recording_20220608-001822_Instagram.mp4",
+    "Back/Screen recordings/00.00/Screen_Recording_20220525-150256_Instagram.mp4",
+    "Back/Screen recordings/00.00/Screen_Recording_20220508-003649_Instagram.mp4",
+    "Back/Screen recordings/00.00/Screen_Recording_20220424-045611_Instagram.mp4",
+    "NOTES/010-Fernando-Herrera/016-Clean-code/INTRO.md",
+    "NOTES/010-Fernando-Herrera/CleanC y SOLID/Nombres Pronunciables y expresivos.md",
+    "NOTES/010-Fernando-Herrera/CleanC y SOLID/INTRO.md",
+    "NOTES/010-Fernando-Herrera/SuperCerebro/Semana-2/Funciones.md",
+    "NOTES/010-Fernando-Herrera/SuperCerebro/Semana-2/Día 9.md",
+    "NOTES/010-Fernando-Herrera/011-React-cero-to-expert/Assets/Screenshot_2023-06-03-05-22-56_1920x1080.png",
+    "NOTES/010-Fernando-Herrera/011-React-cero-to-expert/Assets/Screenshot_2023-06-03-05-21-05_1920x1080.png",
+    "NOTES/010-Fernando-Herrera/011-React-cero-to-expert/Assets/Pasted image 20230603052338.png",
+    "NOTES/001-Academia-X/004-JavaScript-Masterclass/Assets/Screenshot_2023-05-16-18-51-03_1920x1080.png",
+    "NOTES/001-Academia-X/004-JavaScript-Masterclass/Assets/Screenshot_2023-04-27-03-44-01_1920x1080.png"
+  ]
+}
